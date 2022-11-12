@@ -61,6 +61,9 @@ AB_SAN_LEK=0
 # Use BFD LD?
 AB_LD_BFD=0
 
+# Use MIPS MSA?
+MIPS64R6EL_USE_MSA=1
+
 ##OS Directory Tree
 # Built-in variables for AOSC OS directory tree.
 # Will be updated. Therefore not part of conffiles.
